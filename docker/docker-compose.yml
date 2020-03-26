@@ -1,0 +1,10 @@
+version: '2'
+services:
+  statistics_sc:
+    build: .
+    image: statistics_sc
+    ports:
+    - 8888:8888
+    volumes:
+    - .:/home/jovyan/work
+    working_dir: /home/jovyan/work
