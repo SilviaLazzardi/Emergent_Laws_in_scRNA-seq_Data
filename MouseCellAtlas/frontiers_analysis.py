@@ -1,4 +1,4 @@
-import os, gc
+import os, sys, gc
 import numpy as np
 import pandas as pd
 from scipy import stats
@@ -23,7 +23,7 @@ def cleanup():
     os.chdir("mca")
     for file in os.listdir():
         print(file)
-        if (".ipynb_checkpoints" in file) or ("DS_Store" in file) or ("data" in file):
+        if "dge" not in file:
             continue
         if ".gz" in file:
             os.system(f"gunzip {file}")
@@ -37,6 +37,7 @@ def cleanup():
                 f.write(data)
         except:
             print("Error with %s"%unpacked_file)
+            print(*sys.exc_info())
     os.chdir("../")
     
 def load_pickle(filename):
