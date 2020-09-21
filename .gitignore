@@ -10,3 +10,4 @@
 *.gz
 *.pdf
 .ipynb_checkpoints
+*.eps
