@@ -24,10 +24,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - name: Change dir
-        run: cd docker
       - name: login
-        run: docker login -u fvalle1 -p ${{ secrets.GITHUB_TOKEN }} docker.pkg.github.com
+        run: cd docker && docker login -u fvalle1 -p ${{ secrets.GITHUB_TOKEN }} docker.pkg.github.com
       - name: Build the Docker image
         run: docker build . --file Dockerfile --tag docker.pkg.github.com/silvialazzardi/the_single_cell_transcriptome_as_a_component_system/stat_sc:latest
       - name: Push the Docker image
