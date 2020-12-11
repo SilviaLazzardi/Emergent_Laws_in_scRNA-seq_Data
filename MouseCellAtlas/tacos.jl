@@ -6,7 +6,7 @@ pickle = pyimport("pickle")
 
 export estimate_r2, load_pickle
 
-estimate_r2 = function(f, params, x_data, y_data)
+function estimate_r2(f, params, x_data, y_data)
 	residuals = [y - f(x, params)[1] for (x, y) in zip(x_data,y_data)]
 	ss_res = sum([r^2 for r in residuals])
 	ss_tot = sum([y^2 for y in [y1 - mean(y_data) for y1 in y_data]])

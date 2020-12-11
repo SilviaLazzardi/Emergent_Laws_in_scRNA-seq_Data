@@ -1,0 +1,4 @@
+outs:
+- md5: 49411009e7d3dfc5a0604858a03d84ce
+  size: 33290
+  path: rs_tm.csv
