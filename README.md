@@ -1,5 +1,5 @@
-# The_single_cell_transcriptome_as_a_component_system
-Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula Muris compendium proposed in the paper "The single-cell transcriptome as a component system" .
+# Emergent statistical laws in single-cell transcriptomic data
+Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula Muris compendium proposed in the paper "Emergent statistical laws in single-cell transcriptomic data" .
 
 # docker
 It contains a simple image with preinstalled  dependencies
