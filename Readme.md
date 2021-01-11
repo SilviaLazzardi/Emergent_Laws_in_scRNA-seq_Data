@@ -2,20 +2,19 @@
 
 # Emergent statistical laws in single-cell transcriptomic data
 
-This repository supports "Emergent statistical laws in single-cell transcriptomic data" paper
+Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula Muris compendium proposed in the paper "Emergent statistical laws in single-cell transcriptomic data".
 
 # Analyses
 
-## Mouse Cell Atlas
+## [Mouse Cell Atlas](MouseCellAtlas)
 
 In [this folder](MouseCellAtlas) it is possible to reproduce all the analyses involving Mouse Cell Atlas dataset.
 
 Moreover running [combined_analyses.ipynb](MouseCellAtlas/combined_analyses.ipynb) it is possible to reproduce some analyses comparing different datasets as discussed in the paper.
 
-## Tabula Muris
-
-
-In [this folder](TabulaMuris) it is possible to reproduce all the analyses involving Tabula Muris dataset.
+# [Tabula Muris](TabulaMuris)
+It contains a notebook where is available the code used to analyze the Tabula Muris transcriptomic data.
+[Tabula_Muris_Data_Analysis.ipynb](TabulaMuris/Tabula_Muris_Data_Analysis.ipynb)
 
 # Additional Tools
 
@@ -36,3 +35,9 @@ docker-compose up -d
 ```
 
 and then pointing a browser to [localhost](http://localhost:8888)
+
+# Paper
+S. Lazzardi, F. Valle, A. Mazzolini, M. Caselle and M. Osella, [Emergent statistical laws in single-cell transcriptomic data](), *Frontiers in Genetics*, ,(**2021**)
+
+# License
+See [LICENSE](LICENSE)
