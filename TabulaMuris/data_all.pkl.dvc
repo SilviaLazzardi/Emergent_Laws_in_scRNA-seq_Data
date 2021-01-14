@@ -1,0 +1,4 @@
+outs:
+- md5: 7b4567008937d70eb04f12afccff0b94
+  size: 15839815
+  path: data_all.pkl
