@@ -1,0 +1,4 @@
+[cache]
+    type = hardlink
+['remote "mydrive"']
+    url = gdrive://1j6TnvnMRB-mh4E3M6aCuoJo9GGXgLW3z
