@@ -6,15 +6,15 @@ Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula M
 
 # Analyses
 
-## [Mouse Cell Atlas](MouseCellAtlas)
+## [Tabula Muris](TabulaMuris)
+It contains a notebook where is available the code used to analyze the Tabula Muris transcriptomic data.
+[Tabula_Muris_Data_Analysis.ipynb](TabulaMuris/Tabula_Muris_Data_Analysis.ipynb)
 
+
+## [Mouse Cell Atlas](MouseCellAtlas)
 In [this folder](MouseCellAtlas) it is possible to reproduce all the analyses involving Mouse Cell Atlas dataset.
 
 Moreover running [combined_analyses.ipynb](MouseCellAtlas/combined_analyses.ipynb) it is possible to reproduce some analyses comparing different datasets as discussed in the paper.
-
-# [Tabula Muris](TabulaMuris)
-It contains a notebook where is available the code used to analyze the Tabula Muris transcriptomic data.
-[Tabula_Muris_Data_Analysis.ipynb](TabulaMuris/Tabula_Muris_Data_Analysis.ipynb)
 
 # Additional Tools
 
