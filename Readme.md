@@ -1,5 +1,7 @@
 ![CI](https://github.com/SilviaLazzardi/The_single_cell_transcriptome_as_a_component_system/workflows/CI/badge.svg) [![DOI](https://zenodo.org/badge/DOI/10.TBA/TBA.svg)](https://doi.org/TBA)
 
+![graph abstact](abstract.png)
+
 # Emergent statistical laws in single-cell transcriptomic data
 
 Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula Muris compendium proposed in the paper "Emergent statistical laws in single-cell transcriptomic data".
@@ -27,7 +29,7 @@ dvc pull -r mydrive
 ```
 
 ## Run in a Docker container
-It is possible to run all the notebooks in this repository in a controlled container simpley running
+It is possible to run all the notebooks in this repository in a controlled container simply running
 
 ```bash
 cd docker
