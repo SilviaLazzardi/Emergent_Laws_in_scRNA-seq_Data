@@ -1,0 +1,4 @@
+outs:
+- md5: ec877d5a2e66eff8a5581942c94f5830
+  size: 7153264
+  path: Smartseq3.HEK.fwdprimer.UMIcounts.txt
