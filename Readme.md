@@ -1,4 +1,4 @@
-![CI](https://github.com/SilviaLazzardi/The_single_cell_transcriptome_as_a_component_system/workflows/CI/badge.svg) [![DOI](https://zenodo.org/badge/DOI/10.1101/2021.06.16.448706.svg)](https://doi.org/1101/2021.06.16.448706)
+![CI](https://github.com/SilviaLazzardi/The_single_cell_transcriptome_as_a_component_system/workflows/CI/badge.svg) [![DOI](https://zenodo.org/badge/DOI/10.1101/2021.06.16.448706.svg)](https://doi.org/10.1101/2021.06.16.448706)
 
 ![graph abstact](abstract.png)
 
