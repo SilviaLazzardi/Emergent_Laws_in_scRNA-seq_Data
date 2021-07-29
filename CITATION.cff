@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the paper below."
+authors:
+- family-names: "Lazzardi"
+  given-names: "Silvia"
+  orcid: "http://orcid.org/0000-0001-8058-0065"
+- family-names: "Valle"
+  given-names: "Filippo"
+  orcid: "http://orcid.org/0000-0003-3577-8667"
+- family-names: "Mazzolini"
+  given-names: "Andrea"
+  orcid: "http://orcid.org/0000-0003-3194-2052"
+- family-names: "Scialdone"
+  given-names: "Antonio"
+  orcid: "http://orcid.org/0000-0002-4956-2843"
+- family-names: "Caselle"
+  given-names: "Michele"
+  orcid: "https://orcid.org/0000-0001-5488-142X"
+- family-names: "Osella"
+  given-names: "Matteo"
+  orcid: "https://orcid.org/0000-0002-4916-5434"
+title: "Emergent Statistical Laws in Single-Cell Transcriptomic Data"
+version: 1.0.0
+doi: 10.1101/2021.06.16.448706
+date-released: 2021-06-17
+url: "https://github.com/SilviaLazzardi/Emergent_Laws_in_scRNA-seq_Data"
