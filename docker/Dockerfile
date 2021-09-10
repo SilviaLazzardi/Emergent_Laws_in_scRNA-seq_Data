@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook
+FROM docker.io/jupyter/datascience-notebook
 
 COPY requirements.jl /home/jovyan
 RUN julia /home/jovyan/requirements.jl
