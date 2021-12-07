@@ -12,3 +12,5 @@
 *.eps
 *.txt
 .dvc/
+
+MouseCellAtlas/DGE/
