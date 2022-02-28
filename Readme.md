@@ -1,8 +1,11 @@
-![CI](https://github.com/SilviaLazzardi/The_single_cell_transcriptome_as_a_component_system/workflows/CI/badge.svg) [![DOI](https://zenodo.org/badge/DOI/10.1101/2021.06.16.448706.svg)](https://doi.org/10.1101/2021.06.16.448706)
+![CI](https://github.com/SilviaLazzardi/The_single_cell_transcriptome_as_a_component_system/workflows/CI/badge.svg) 
+[![DOI](https://zenodo.org/badge/380663155.svg)](https://zenodo.org/badge/latestdoi/380663155)
 
 ![graph abstact](abstract.png)
 
 # Emergent statistical laws in single-cell transcriptomic data
+
+[![DOI](https://zenodo.org/badge/DOI/10.1101/2021.06.16.448706.svg)](https://doi.org/10.1101/2021.06.16.448706)
 
 Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula Muris compendium proposed in the paper "Emergent statistical laws in single-cell transcriptomic data".
 
