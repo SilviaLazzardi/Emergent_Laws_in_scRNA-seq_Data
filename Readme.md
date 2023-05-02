@@ -1,11 +1,12 @@
 ![CI](https://github.com/SilviaLazzardi/The_single_cell_transcriptome_as_a_component_system/workflows/CI/badge.svg) 
-[![DOI](https://zenodo.org/badge/380663155.svg)](https://zenodo.org/badge/latestdoi/380663155)
+[![DOI code](https://zenodo.org/badge/380663155.svg)](https://zenodo.org/badge/latestdoi/380663155)
+
 
 ![graph abstact](abstract.png)
 
 # Emergent statistical laws in single-cell transcriptomic data
 
-[![DOI](https://zenodo.org/badge/DOI/10.1101/2021.06.16.448706.svg)](https://doi.org/10.1101/2021.06.16.448706)
+[![DOI](https://zenodo.org/badge/DOI/10.1103/PhysRevE.107.044403.svg)](https://doi.org/10.1103/PhysRevE.107.044403)
 
 Code to reproduce the statistical data analysis of Mouse Cell Atlas and Tabula Muris compendium proposed in the paper "Emergent statistical laws in single-cell transcriptomic data".
 
@@ -42,8 +43,7 @@ docker-compose up -d
 and then pointing a browser to [localhost](http://localhost:8888)
 
 # Paper
-S. Lazzardi, F. Valle, A. Mazzolini, A. Scialdone, M. Caselle and M. Osella, [Emergent statistical laws in single-cell transcriptomic data](https://doi.org/10.1101/2021.06.16.448706), bioRxiv 2021.06.16.448706
-
+S. Lazzardi, F. Valle, A. Mazzolini, A. Scialdone, M. Caselle and M. Osella, [Emergent statistical laws in single-cell transcriptomic data](https://doi.org/10.1103/PhysRevE.107.044403), *Physical Review E* (**2023**)
 # License
 See [LICENSE](LICENSE)
 
